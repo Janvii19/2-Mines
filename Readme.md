@@ -1,3 +1,7 @@
-# Backend Login Form
+# 2-MINEES
 
-Once you clone it make sure you run 'npm install' command to install all libraries mention in package.json file.
+Website based on crypto Marketing
+
+01 SECURELY BUY, SELL, STORE, SEND and TRACK Buy crypto at true cost 
+02 Cryptocurrency exchange Real estate processing platform 
+03 Cryptocurrency in Every Wallet
